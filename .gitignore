@@ -1,0 +1,63 @@
+# Directorios y archivos generados por Django
+__pycache__/
+db.sqlite3
+*.pyc
+
+# Carpeta virtualenv de Python (si la utilizas)
+venv/
+
+# Carpeta node_modules de React (si la utilizas)
+node_modules/
+
+# Carpeta build de React (si la utilizas)
+build/
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración local (por ejemplo, .env)
+.env
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos de caché y compilación (pueden variar según tu IDE)
+*.pyc
+*.pyo
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.egg-info/
+dist/
+build/
+*.egg-info
+*.npm
+*.yarn
+*.tmp
+*.bak
+*.swp
+*.out
+*.vscode/
+
+# Archivos y directorios de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de caché de Windows
+Thumbs.db
+ehthumbs.db
+
+# Archivos de caché de Thumbnails de Windows
+ehthumbs_vista.db
+
+# Archivos de caché de Iconos de Windows
+Desktop.ini
+
+# Archivos de caché de navegación de carpetas de Windows
+$RECYCLE.BIN/
+Icon?
+ehthumbs_*.db
+Thumbs.db
